@@ -1,5 +1,6 @@
 # flower_care
-
+ 
+ Extract data from a Bluetooth low energy BLE device using python and Bleak 
 
 Install 
 Install bleak  https://github.com/hbldh/bleak  
